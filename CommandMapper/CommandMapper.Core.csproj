@@ -3,6 +3,15 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Command Mapper Core</Title>
+    <Authors>Jose Sebastian Garcia</Authors>
+    <Company>Jose Sebastian Garcia</Company>
+    <Description>Una capa de abstracción para el parseo de comandos y opciones para consola.</Description>
+    <RepositoryUrl>https://github.com/JoseSebastianGarcia/CommandMapper.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>C#;Console;Consola;Mapper;Command;Parse;Parser;Parsing;Options;Option;Abstraction;VB;Register;Unregister;Arguments;Args</PackageTags>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
