@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/JoseSebastianGarcia/CommandMapper.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>C#;Console;Consola;Mapper;Command;Parse;Parser;Parsing;Options;Option;Abstraction;VB;Register;Unregister;Arguments;Args</PackageTags>
-    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
